@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Credentials / local config
+.env
+
+# Generated output and logs
+output/
+logs/
+*.log
+
+# Excel temporary files
+~$*.xlsx
